@@ -20,7 +20,7 @@
 ### Links
 
 - Solution URL: [solution here](https://github.com/gp0710/profile-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site here](https://gp0710.github.io/profile-card-component/)
 
 ## My process
 
