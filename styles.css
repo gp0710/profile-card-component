@@ -18,7 +18,9 @@ body {
     font-size: 18px; /* name and stats */
     font-family: 'Kumbh Sans', sans-serif;
     background: var(--dark-cyan); 
-    background-image: url("./images/bg-pattern-top.svg")
+    background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
+    background-position: -200% 100%, 300% -50%;
+    background-repeat: no-repeat, no-repeat;
 }
 
 /* fonts */
